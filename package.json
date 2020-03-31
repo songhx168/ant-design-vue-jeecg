@@ -1,5 +1,5 @@
 {
-  "name": "vue-antd-jeecg",
+  "name": "asiainfo_oa_web",
   "version": "2.1.4",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
   "dependencies": {
     "@antv/data-set": "^0.10.2",
     "@jeecg/antd-online-214": "^2.1.41",
+    "@jeecg/antd-online-re": "^2.1.3",
     "@tinymce/tinymce-vue": "^2.0.0",
     "ant-design-vue": "^1.4.0",
     "apexcharts": "^3.6.5",

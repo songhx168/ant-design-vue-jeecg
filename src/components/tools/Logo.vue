@@ -21,7 +21,7 @@
     props: {
       title: {
         type: String,
-        default: 'Jeecg-Boot Pro',
+        default: 'AsiainfoOa Pro',
         required: false
       },
       showTitle: {
